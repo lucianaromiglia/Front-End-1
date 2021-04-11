@@ -1,0 +1,40 @@
+
+body{
+    height: 1024px ;
+    width: 1180px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 4%;
+}
+
+.Fondo{
+    background-image: url(../imagen/lemon-pie2.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+   height: 330px;
+   position: relative;
+}
+
+h3{
+    font-weight: 450;
+}
+
+h1{
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    bottom: 20%;
+
+}
+.blanco{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    bottom: 0%;
+    margin: 0;
+}
+.cursiva{
+    font-style: italic;
+}
+.merengue{
+    color: tomato;
+}
